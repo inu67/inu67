@@ -16,8 +16,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux Logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C Logo">
 </div>
-
-
-
-
 ###
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inu67&theme=ayu_mirage)
