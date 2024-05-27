@@ -3,8 +3,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1114341995633184768?theme=dark&bg=1A2C38&animated=false&hideDiscrim=true)](https://discord.com/users/1114341995633184768)
 
 <h2 align="left">I code with</h2>
-
-###
 <div style="display: flex; flex-wrap: wrap; gap: 20; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5 Logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React Logo">
@@ -16,5 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux Logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C Logo">
 </div>
-###
+
+# Stats
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inu67&theme=ayu_mirage)
